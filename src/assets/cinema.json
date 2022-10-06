@@ -1,0 +1,107 @@
+[
+    {
+      "label": "Only one of these Kamal Haasan movies has won a National Film Award. Which is it ?",
+      "choices": [
+        {
+          "value": "Aalavandhan",
+          "correct": true
+        },
+        {
+          "value": "Virumaandi",
+          "correct": false
+        },
+        {
+          "value": "Anbe Sivam",
+          "correct": false
+        },
+        {
+          "value": "Dasavatharam",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Identify the song with the following lyrics translated in English : 'I will not leave you if I do so I will not sleep Both our souls have joined together'",
+      "choices": [
+        {
+          "value": "Kanmani Anbodu - Guna",
+          "correct": false
+        },
+        {
+          "value": "Sundari Kanal - Thalapathy",
+          "correct": true
+        },
+        {
+          "value": "Thendral Vanthu - Avatharam",
+          "correct": false
+        },
+        {
+          "value": "Thenpadi Seemayila - Nayakan",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Identify the movie based on the following template:The hero works as an employee, has an old love which he/his friend explains to the heroine. The hero and heroine end up together and with a big future/career in basically one song or few scenes.",
+      "choices": [
+        {
+          "value": "Unnai Ninaithu",
+          "correct": false
+        },
+        {
+          "value": "Poove Unakaga",
+          "correct": false
+        },
+        {
+          "value": "Suryavamsam",
+          "correct": true
+        },
+        {
+          "value": "Vanathaipola",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "In which movie, did comedian Santhanam make his debut?",
+      "choices": [
+        {
+          "value": "vallavan",
+          "correct": false
+        },
+        {
+          "value": "sachien",
+          "correct": false
+        },
+        {
+          "value": "Manmadhan",
+          "correct": true
+        },
+        {
+          "value": "polladhavan",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Who was the cinematographer for the movie 'BOMBAY, who is also a director?'",
+      "choices": [
+        {
+          "value": "Santhosh Sivan",
+          "correct": false
+        },
+        {
+          "value": "Rajiv Menon",
+          "correct": true
+        },
+        {
+          "value": "Ravi.k.Chandran",
+          "correct": false
+        },
+        {
+          "value": "P.C.Sreeram",
+          "correct": false
+        }
+      ]
+    }
+  ]

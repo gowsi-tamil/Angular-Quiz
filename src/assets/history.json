@@ -1,0 +1,107 @@
+[
+    {
+      "label": "Who Killed Mahatma Gandhi?",
+      "choices": [
+        {
+          "value": "Sardar Udham Singh",
+          "correct": false
+        },
+        {
+          "value": "Nathuram Godse",
+          "correct": true
+        },
+        {
+          "value": "Mukhtar Ansari",
+          "correct": false
+        },
+        {
+          "value": "Sher Singh Rana",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Who gave the slogan -'Jai Hind?",
+      "choices": [
+        {
+          "value": "Bhagat Singh",
+          "correct": false
+        },
+        {
+          "value": "Subhash Chandra Bose",
+          "correct": true
+        },
+        {
+          "value": "Mangal Pandey",
+          "correct": false
+        },
+        {
+          "value": "Mahatma Gandhi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "'East Pakistan' was separated from 'West Pakistan' and become the newly independent country - named ?",
+      "choices": [
+        {
+          "value": "Afghanistan",
+          "correct": false
+        },
+        {
+          "value": "Bangladesh",
+          "correct": true
+        },
+        {
+          "value": "Myanmar",
+          "correct": false
+        },
+        {
+          "value": "East Bengal",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "During Which movement did Gandhi gave the call to boycott the foreign goods?",
+      "choices": [
+        {
+          "value": "Khilafat Movement",
+          "correct": false
+        },
+        {
+          "value": "Non-cooperation Movement",
+          "correct": false
+        },
+        {
+          "value": "Swadeshi Movement",
+          "correct": true
+        },
+        {
+          "value": "Civil Disobedience Movement",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "who is called by the 'Prince of Martyrs'",
+      "choices": [
+        {
+          "value": "Bhagat Singh",
+          "correct": true
+        },
+        {
+          "value": "Mahatma Gandhi",
+          "correct": false
+        },
+        {
+          "value": "Khudiram Bose",
+          "correct": false
+        },
+        {
+          "value": "Subhash Chandra Bose",
+          "correct": false
+        }
+      ]
+    }
+  ]

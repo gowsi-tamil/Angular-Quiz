@@ -1,0 +1,26 @@
+[
+    {
+      "label": "cinema",
+      "name": "cinema",
+      "description": "Questions about cinema",
+      "fileName": "cinema.json"
+    },
+    {
+      "label": "cricket",
+      "name": "cricket",
+      "description": "Questions about the ancient cricket",
+      "fileName": "cricket.json"
+    },
+    {
+    "label": "history",
+    "name": "history",
+    "description": "Questions about history",
+    "fileName": "history.json"
+    },
+    {
+    "label": "politics",
+    "name": "politics",
+    "description": "Questions about politics",
+    "fileName": "politics.json"
+    }
+  ]

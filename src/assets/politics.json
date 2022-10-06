@@ -1,0 +1,107 @@
+[
+    {
+      "label": "Who is the Chairman of Planning Commission?",
+      "choices": [
+        {
+          "value": "Prime Minister",
+          "correct": true
+        },
+        {
+          "value": "Finance Minister",
+          "correct": false
+        },
+        {
+          "value": "President of India",
+          "correct": false
+        },
+        {
+          "value": "None of the above",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "The idea of Fundamental Rights in Indian Constitution was adopted from",
+      "choices": [
+        {
+          "value": "England",
+          "correct": false
+        },
+        {
+          "value": "France",
+          "correct": false
+        },
+        {
+          "value": "Germany",
+          "correct": false
+        },
+        {
+          "value": "America",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "label": "Which artice of constitution give the provision of President in india?",
+      "choices": [
+        {
+          "value": "Article 52",
+          "correct": true
+        },
+        {
+          "value": "Article 56",
+          "correct": false
+        },
+        {
+          "value": "Article 72",
+          "correct": false
+        },
+        {
+          "value": "Article 76",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Minimum duration to stay in India before applying for Indian Citizenship",
+      "choices": [
+        {
+          "value": "3 Years",
+          "correct": false
+        },
+        {
+          "value": "10 Years",
+          "correct": false
+        },
+        {
+          "value": "5 Years",
+          "correct": true
+        },
+        {
+          "value": "7 Years",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "How many languages were originally recognized by the Constitution as regional languages?",
+      "choices": [
+        {
+          "value": "17",
+          "correct": false
+        },
+        {
+          "value": "14",
+          "correct": true
+        },
+        {
+          "value": "12",
+          "correct": false
+        },
+        {
+          "value": "9",
+          "correct": false
+        }
+      ]
+    }
+  ]

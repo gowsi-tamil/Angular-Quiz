@@ -1,0 +1,107 @@
+[
+    {
+      "label": "Who is the only Indian Spin bowler to have taken 5 wickets in a World Cup match?",
+      "choices": [
+        {
+          "value": "Yuvraj Singh",
+          "correct": true
+        },
+        {
+          "value": "Maninder Singh",
+          "correct": false
+        },
+        {
+          "value": "Venkatpathy Raju",
+          "correct": false
+        },
+        {
+          "value": "Harbhajan Singh",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Who holds the record for the highest individual score for India while batting at No.11 (75 runs)?",
+      "choices": [
+        {
+          "value": "Javagal Srinath",
+          "correct": false
+        },
+        {
+          "value": "Zaheer Khan",
+          "correct": true
+        },
+        {
+          "value": "Harbhajan Singh",
+          "correct": false
+        },
+        {
+          "value": "Ravi Shastri",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Who is the only Indian Batsman to have scored a hundred on ODI debut?",
+      "choices": [
+        {
+          "value": "Suresh Raina",
+          "correct": false
+        },
+        {
+          "value": "Kedar Jadhav",
+          "correct": false
+        },
+        {
+          "value": "Ajay Jadeja",
+          "correct": false
+        },
+        {
+          "value": "KL Rahul",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "label": "Who is the only Indian to have scored a century and claimed a five wicket haul in a test match on two different occasions?",
+      "choices": [
+        {
+          "value": "Kapil Dev",
+          "correct": false
+        },
+        {
+          "value": "Vinoo Mankad",
+          "correct": false
+        },
+        {
+          "value": "Ravichandran Ashwin",
+          "correct": true
+        },
+        {
+          "value": "Polly Umrigar",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "Who was the first Indian bowler to take 5 or more wickets in a T20I?",
+      "choices": [
+        {
+          "value": "Kuldeep Yadav",
+          "correct": false
+        },
+        {
+          "value": "Yuzvendra Chahal",
+          "correct": true
+        },
+        {
+          "value": "Bhuvneshwar Kumar",
+          "correct": false
+        },
+        {
+          "value": "Ravindra Jadeja",
+          "correct": false
+        }
+      ]
+    }
+  ]
